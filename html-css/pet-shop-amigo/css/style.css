@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #fff8dc;
+    background: #f0f8ff;
 
 }
 
@@ -53,8 +53,9 @@ body {
     margin: 0 auto;
     width: 900px;
     padding: 1em;
-    border: 1px solid red;
     overflow: hidden;
+    background: #ffffff;
+    padding: 15px;
 }
 
 
@@ -71,15 +72,19 @@ body {
 
 #area-conteudo {
     background: #fff;
-    padding: 1em;
+    padding: 1.5em;
     width: 65%;
     float: left;
+    border: 1px solid #d1c9c9;
+    
 }
 
 .conteudo  {
     margin-bottom: 2em;
     background: #fff8dc;
-    padding: 2em;
+    padding: 1.2em;
+    border: 1px solid #d1c9c9;
+
 }
 
 
@@ -94,9 +99,42 @@ body {
 
 #lateral {
     float: right;
-    width: 35%;
+    width: 30%;
 
 }
+
+#nossos-servicos {
+    padding: 2em;
+}
+
+#nossos-servicos a {
+    display: block;
+    padding: 0.5em 0;
+    text-decoration: none;
+    color: #555;
+    border-bottom: 1px dotted #cdc7c7;
+    font-size: 1.2em;
+
+}
+
+#nossos-servicos a:hover {
+    color: #1e5e3a;
+    padding-left: 15px;
+    transition: 0.3s;
+}
+
+#horario-funcionamento {
+    border: 1px solid #eecfa1;
+    background: #fff8dc;
+    padding: 1em;
+    
+}
+
+#horario-funcionamento p {
+    font-size: 1.2em;
+    padding: 0.2em;
+}
+
 
 #rodape {
     background: #333;
