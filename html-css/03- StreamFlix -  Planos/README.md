@@ -4,7 +4,7 @@ Este é meu terceiro projeto prático estudando HTML e CSS. O objetivo foi recri
 
 ## 📸 Resultado
 
-![](./img/resultado-final.png)
+![Print do site pronto](./img/resultado-final.png)
 
 ## 🛠️ Tecnologias usadas
 
