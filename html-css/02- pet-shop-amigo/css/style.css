@@ -50,7 +50,7 @@ body {
 
 
 #area-principal {
-    margin: 0 auto;
+    margin: 30px auto;
     width: 900px;
     padding: 1em;
     overflow: hidden;
@@ -80,11 +80,10 @@ body {
 }
 
 .conteudo  {
-    margin-bottom: 2em;
+    margin-bottom: 20px;
     background: #fff8dc;
-    padding: 1.2em;
-    border: 1px solid #d1c9c9;
-
+    padding: 20px;
+    border: 1px solid #eecfa1;
 }
 
 
