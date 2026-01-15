@@ -12,8 +12,10 @@ Bem-vindo ao meu repositório de aprendizado! Aqui concentro meus exercícios, p
 
 | Projeto | Tecnologia | Descrição |
 | :--- | :--- | :--- |
-[**Sabor da vovó**](./html-css/sabor-da-vovo) | HTML e CSS | Receita de bolo de cenoura. |
-| **EM BREVE** | ... | ... |
+[**Sabor da vovó**](./html-css/01-%20sabor-da-vovo/) | HTML e CSS | Receita de bolo de cenoura. |
+| [**Petshop Amigo**](./html-css/02-%20pet-shop-amigo/) | HTML e CSS | Promoções da semana no petshop. |
+| [**StreamFlix**](./html-css/03-%20StreamFlix%20-%20%20Planos/) | HTML e CSS | Opções de plano de assinatura igual ao netflix. |
+
 
 ---
 *Este repositório está em constante evolução enquanto aprimoro minhas habilidades em Ciência da Computação.*
