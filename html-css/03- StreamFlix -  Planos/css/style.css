@@ -73,17 +73,6 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 /* TIPOGRAFIA */
 
 #cabecalho h1 {
@@ -182,4 +171,18 @@ body {
     color: #fff;
 
      white-space: nowrap; /* se o texto for longo ele n quebra em duas linhas */
+}
+
+/* RESPONSIVIDADE */
+
+@media screen and (max-width: 768px) {
+    .container-precos {
+        grid-template-columns: 1fr;
+        max-width: 500px; 
+    }
+
+    .cartao.popular {
+        transform: scale(1);
+    }
+    
 }
